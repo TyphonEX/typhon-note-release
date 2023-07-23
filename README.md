@@ -4,6 +4,8 @@
 
 `简单 简洁 易上手 易用性高 方便快捷 本地存储和处理`
 
+![一点预览](http://cdn.typhon.work/image/theme-and-alpha.gif)
+
 ### 基本介绍
 
 基于 `Electron - vue - vite`具有两种类型的纯 本地 操作、存储的便签/文章
