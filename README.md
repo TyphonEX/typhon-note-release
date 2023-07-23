@@ -4,7 +4,7 @@
 
 `简单 简洁 易上手 易用性高 方便快捷 本地存储和处理`
 
-![一点预览](http://cdn.typhon.work/image/theme-and-alpha.gif)
+![一点预览](https://github.com/TyphonEX/typhon-note-release/blob/main/images/theme-and-alpha.gif)
 
 ### 基本介绍
 
