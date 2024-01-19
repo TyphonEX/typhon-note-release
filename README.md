@@ -5,6 +5,7 @@
 `简单 简洁 易上手 易用性高 方便快捷 本地存储和处理`
 
 ![一点预览](https://github.com/TyphonEX/typhon-note-release/blob/main/images/theme-and-alpha.gif)
+![悬浮模式](https://github.com/TyphonEX/typhon-note-release/assets/49380589/773a3d76-d624-4e6e-8a1d-2a2be21b7413)
 
 ### 基本介绍
 
